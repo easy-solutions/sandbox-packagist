@@ -1,6 +1,5 @@
 {
-    "name": "easy/sandbox-packagist",
-    "description": "only for test purposes",
+    "name": "progetis/sandbox-packagist",
     "type": "project",
     "minimum-stability": "dev",
     "require": {
